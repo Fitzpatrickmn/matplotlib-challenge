@@ -1,1 +1,3 @@
 # matplotlib-challenge
+
+Using Matplotlib to screen for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. My objective was to contrast the effectiveness of Capomulin, Infubinol, Ketapril and a Placebo as treatment options. 
